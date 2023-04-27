@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta chartset = "UTF-8">
+        <title> One 8 </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="compcss.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" type="x-icon" href="https://media.licdn.com/dms/image/C510BAQEEbNoEaZ-6Kg/company-logo_200_200/0/1569854032730?e=2147483647&v=beta&t=ktLnueHUwHW0SWpDT4Yn5_zKbdlbUNhioAV6kPOkPZA">
+        <meta name="viewport" content="Width=device-width, intial-scale=1.0">
+        <meta http-equiv="X-UA-Compatuble" content="IE=edge">
+        
+                    
+
+    </head>
+    <body>
+        <div class="header">
+
+        
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="home.html"><img src="C:\Users\Pavan\Downloads\ca99231fa2809bcaf4b3afb8889e4a17.w404.h316-removebg-preview.png" alt="" class = "img72" width="250" ></a>
+                    
+    
+                </div>
+                <nav>
+                     <ul id="MenuItems" >
+                        <li><a href="home.html" class = "io"> Home </a></li>
+                        <li><a href="compproducts.html" class = "io"> Products </a></li>
+                        
+                 
+                        <li><a href="aboutus.html" class = "io"> About </a></li>
+                        <li><a href="contactus..html" class = "io"> Contact</a></li>
+                        <li><a href="loginto.html" class = "io"> Account </a></li>
+                         
+                        
+                     </ul>
+                </nav>
+                <a href="mybag.html" class="co"><img src="https://rsanimesh.github.io/images/cart.png" width="30px " height="30px"></a>
+                <img src="C:\Users\Pavan\Desktop\My Stuff\menu.png" class="menu-icon" onclick="menutoggle()">
+                
+
+                
+    
+            </div>
+            <div class="row">
+                <div class="col-2"> 
+                    <h1> The joy of dressing, <br> Is an art!</h1>
+                    <p> Success isn't always about greatness. It's about Consistency.<br> Consistent work gains success.Greatness will come</p>
+                    <a href="products1.html" class="btn"> Explore Now &#8594</a>
+                </div>
+                <div class="col-2-img"> 
+                    <img src="C:\Users\Pavan\Downloads\IMG-20230405-WA0003_adobe_express.png" alt="" srcset="">
+                </div>
+
+
+            </div>
+        </div>   
+
+        
+
+      
+        </div>
+            <div class="categories">
+                <div class="small-cont">
+                    <div class="row">
+                    
+                        <div class="col-3">
+                            <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/3_5974d590-ad69-4cc6-b5d1-812b04cf16c0_540x.jpg?v=1680507436" alt="">
+                        </div>
+                        <div class="col-3">
+                            <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/1_89850155-cc08-478e-92bd-a21d075bc1e8_540x.jpg?v=1680505144" alt="">
+                        </div>
+                        <div class="col-3">
+                            <img src="https://rukminim1.flixcart.com/image/832/832/knw2v0w0/t-shirt/i/4/3/l-one-8-tshirt-tee-gallery-original-imag2gd4z66w5qrq.jpeg?q=70" >
+                        </div>
+                    </div>
+                </div>
+                <div class="small-cont">
+                    <h2 class="title">  Branded Products </h2>
+                    <div class="row">
+                        <div class="col-4">
+                            <a href="allen.html"><img src="  https://imagescdn.allensolly.com/img/app/product/8/868205-10301298.jpg?q=75&auto=format&w=387" width = "120" height = "300"></a>
+                            <a href="allen.html"></a><h4>Rare Rabbit T-shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            
+                            <p> Rs.800/-</p>
+                        </div>
+                        <div class="col-4">
+                            <a href="uspolo.html"><img src="https://rukminim1.flixcart.com/image/612/612/l47cu4w0/shoe/6/4/m/-original-imagf5ggqxkazfae.jpeg?q=70" width = "120" height = "300"></a>
+                            <h4>US Polo Assn Shoes</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <a href="titan.html"><img src="https://rukminim1.flixcart.com/image/832/832/xif0q/watch/2/i/z/-original-imagnvwugpwkzgsk.jpeg?q=70" width = "120" height = "300" ></a>
+                            <h4>Titan Watch for Men</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> RS.5000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <a href="one8perfume.html"><img src="https://images-static.nykaa.com/media/catalog/product/4/8/48c18398906106743433_1.jpg" width = "120" height = "300"></a>
+                            <h4>One 8 Eau De Perfume For Men</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.1200/-</p>
+                        </div>
+                    </div>
+                    <h2 class="title">  Latest Products </h2>
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="https://sslimages.shoppersstop.com/sys-master/images/h0d/h88/28699950678046/A22KPCSLP132844_RED.jpg_230Wx334H" width = "120" height = "300">
+                            <h4 class="h21">US Polo Assn T-shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            
+                            <p> Rs.1500-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/ku79vgw0/track-pant/v/8/3/m-58671601-puma-original-imag7dk4adcgtad3.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Solid Black Track Pant by Puma</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/k0vbgy80/watch/n/7/y/ng38003pp13c-fastrack-original-imafkjuhyvznhkgh.jpeg?q=70" width = "120" height = "300" >
+                            <h4 class="h21">Fastrack Watch</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2300/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/l29c9e80/short/s/o/t/32-itmso00263tan-indian-terrain-original-imagdmz8fzsqhh7e.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Brown shorts by Indian Terrain</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.800/-</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4">
+                            <img src=" https://sslimages.shoppersstop.com/sys-master/images/h6a/h29/29517651738654/S23ITKRIMAROON_RED.jpg_230Wx334H" width = "120" height = "300">
+                            <h4 class="h21">Allen Solly Shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            
+                            <p> Rs.1500/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/n/f/x/-original-imagg6h94sgmncpw.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21"> Adidas Sports shoes</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/ksuowi80/shirt/w/p/o/xxl-frml-st2-vebnor-original-imag6bkegkwmqv75.jpeg?q=70" width = "120" height = "300" >
+                            <h4 class="h21">Men Formal Shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.1800/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://one8.com/uploads/image/Laravel-6150a2d92c5f04.25688630chb(g0in.jpg" width = "120" height = "300">
+                            <h4 class="h21">One 8 Eau De Perfume For Men</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.1200/-</p>
+                        </div>
+                    </div>
+
+
+
+                </div>
+                
+                
+                    
+
+            </div>
+        </div> 
+
+     
+        
+
+<!--Watch Advertisement -->
+<div class="offer">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-2 imgofmwq">
+                <a href="https://www.apple.com/in/newsroom/2019/09/apple-unveils-apple-watch-series-5/" target="_blank"><img src="C:\Users\Pavan\Downloads\gps__b0yvr61u8ws2_og_adobe_express.png" class="offer-img img638"  width = '500' height = "300" ></a>
+            </div>
+            <div class="col-2">
+                <p>Exclusively Available on One8</p>
+                <h1>Apple Watch Series 5</h1>
+                <small>The Apple Watch Series 5 features a fast 64-bit dual-core processor and an always-on display which shows the time and important information without the need to raise your wrist. With the built-in compass, navigation is made easy. Apart from monitoring your heart rate, it also tracks your workouts and activity, and also lets you connect with people and information you care about easily, directly from your wrist.</small>
+                <br>
+                <a href="" class="btn">Buy Now &#8594;</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--Reviews -->
+
+
+<div class="testimonial">
+    <div class="small-container">
+        <h2 class="title">  Reviews </h2>
+        <div class="row">
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p>These are physical products that can be purchased online, such as clothing, electronics, and home appliances. When evaluating these products, people may consider factors such as price, quality, shipping times, and customer service.
+
+                     </p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <img src="  C:\Users\Pavan\AppData\Local\Temp\Temp1_RedStore_Img.zip\images\user-1.png" >
+                <h3>Tokyo</h3>
+            </div>
+
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p> These include products such as e-books, software, online courses, and digital downloads. When evaluating digital products, people may consider factors such as price, the credibility and reputation of the creator.</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    
+                </div>
+                <img src=" C:\Users\Pavan\AppData\Local\Temp\Temp1_RedStore_Img.zip\images\user-3.png">
+                <h3>Denver</h3>
+            </div>
+
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p>These products include services such as streaming platforms, fitness apps, and meal delivery services that require a recurring payment. When evaluating subscription-based products, people may consider factors such as the quality and variety of content.</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    
+                </div>
+                <img src=" C:\Users\Pavan\AppData\Local\Temp\Temp1_RedStore_Img.zip\images\user-2.png">
+                <h3>Elizabeth</h3>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+ <!-- ------------------ footer ----------------  -->
+ <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                
+                <h3><b>Download Our App for Android</b> </h3>
+                <br>
+                <div class="app-logo">
+                    <a href="https://one8.com/" target="_blank"><img src="https://rsanimesh.github.io/images/play-store.png" width="150px" height="39px"></a>
+                    
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/one8-logo_140x.png?v=1620297227">
+                <br>
+                
+
+                    <p>one8 has become Virat Kohl's passion project to bring the world closer to his sense of style and freedom of expression.</p>
+                
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul class="ul">
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                    
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us on</h3>
+                <ul class="ul2">
+                    <li><a href="https://www.facebook.com/one8Select" class = "io2" target="_blank"> Facebook </a></li>
+                    <li><a href="https://www.instagram.com/one8world/" class = "io3" target="_blank"> Instagram </a></li>
+                    <li><a href="https://twitter.com/one8world" class = "io2" target="_blank"> Twitter </a></li>
+                    <li><a href="https://www.youtube.com/@one8commune48" class = "io4" target="_blank"> Youtube </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <center><p class="copyright"> Copytight© 2023 - Pavan Kumar</p></center>
+    </div>
+</div>
+
+<!-- ------------ js for toggle menu -----------  -->
+<script>
+    var MenuItems = document.getElementById("MenuItems");
+    MenuItems.style.maxHeight = "0px";
+
+    function menutoggle() {
+        if (MenuItems.style.maxHeight == "0px") {
+            MenuItems.style.maxHeight = "200px";
+        } else {
+            MenuItems.style.maxHeight = "0px";
+        }
+    }
+</script>
+
+
+
+        
+
+    </body>
+</html>
