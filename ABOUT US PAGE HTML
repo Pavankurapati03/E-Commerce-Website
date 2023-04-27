@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta chartset = "UTF-8">
+        <title> One 8 </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="compcss.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" type="x-icon" href="https://media.licdn.com/dms/image/C510BAQEEbNoEaZ-6Kg/company-logo_200_200/0/1569854032730?e=2147483647&v=beta&t=ktLnueHUwHW0SWpDT4Yn5_zKbdlbUNhioAV6kPOkPZA">
+        <meta name="viewport" content="Width=device-width, intial-scale=1.0">
+        <meta http-equiv="X-UA-Compatuble" content="IE=edge">
+        
+                    
+
+    </head>
+    <body>
+        <div class="container bgo">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="e-commerce.html"><img src="C:\Users\Pavan\Downloads\ca99231fa2809bcaf4b3afb8889e4a17.w404.h316-removebg-preview.png" alt="" class = "img72" width="250" ></a>
+                    
+    
+                </div>
+                <nav>
+                     <ul id="MenuItems" >
+                        <li><a href="e-commerce.html" class = "io"> Home </a></li>
+                        <li><a href="products1.html" class = "io"> Products </a></li>
+                 
+                        <li><a href="aboutus.html" class = "io"> About </a></li>
+                        <li><a href="contact.html" class = "io"> Contact</a></li>
+                        <li><a href="login1.html" class = "io"> Account </a></li>
+                         
+                        
+                     </ul>
+                </nav>
+                <a href="mybag.html"><img src="https://rsanimesh.github.io/images/cart.png" width="30px " height="30px"></a>
+                <img src="C:\Users\Pavan\Desktop\My Stuff\menu.png" class="menu-icon" onclick="menutoggle()">
+                
+    
+            </div>
+            
+        </div>   
+
+        <div class="sec">
+            <div class="conta">
+                <div class="con-sec">
+                    <div class="title">
+                        <center><h1>About US</h1></center>
+                    </div>
+                    <div class="conte">
+                        <h3>Virat's Passion Project</h3><br>
+                        <p>one8Select has become Virat Kohl's passion project to bring the world closer to his sense of style and freedom of expression. The collection encapsulates a wide array of shoes for people from every walk of life. Versatile and bold, these shoes have been conceived and brought to you from the home of premium formal footwear, Italy.
+
+                            Hence, we were thrilled to introduce a range of formal footwear and accessories as versatile as Virat himself. Be it a meeting you want to slay, an interview you want to ace or just looking good in life, this collection helps you to put your best foot forward.</p>
+                            <a href="" class="btn3">Read More</a>
+                    </div>
+                    <div class="social">
+                        <a href="https://www.facebook.com/one8Select"><i class="fa fa-facebook-official" aria-hidden="true"></i></i></a>
+                        <a href="https://www.instagram.com/one8world/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/one8world"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="img-sec">
+                    <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/vitat-img.jpg?v=1620639419" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- ------------------ footer ----------------  -->
+ <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                
+                <h3><b>Download Our App for Android</b> </h3>
+                <br>
+                <div class="app-logo">
+                    <a href="https://one8.com/" target="_blank"><img src="https://rsanimesh.github.io/images/play-store.png" width="150px" height="39px"></a>
+                    
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/one8-logo_140x.png?v=1620297227">
+                <br>
+                
+
+                    <p>one8 has become Virat Kohl's passion project to bring the world closer to his sense of style and freedom of expression.</p>
+                
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul class="ul2">
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                    
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us on</h3>
+                <ul class="ul">
+                    <li><a href="https://www.facebook.com/one8Select" class = "io2" target="_blank"> Facebook </a></li>
+                    <li><a href="https://www.instagram.com/one8world/" class = "io3" target="_blank"> Instagram </a></li>
+                    <li><a href="https://twitter.com/one8world" class = "io2" target="_blank"> Twitter </a></li>
+                    <li><a href="https://www.youtube.com/@one8commune48" class = "io4" target="_blank"> Youtube </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <center><p class="copyright"> Copytight© 2023 - Pavan Kumar</p></center>
+    </div>
+</div>
+
+    </body>
