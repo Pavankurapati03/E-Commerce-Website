@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta chartset = "UTF-8">
+        <title>  All Products - One 8 </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="compcss.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" type="x-icon" href="https://media.licdn.com/dms/image/C510BAQEEbNoEaZ-6Kg/company-logo_200_200/0/1569854032730?e=2147483647&v=beta&t=ktLnueHUwHW0SWpDT4Yn5_zKbdlbUNhioAV6kPOkPZA">
+        <meta name="viewport" content="Width=device-width, intial-scale=1.0">
+        <meta http-equiv="X-UA-Compatuble" content="IE=edge">
+        
+                    
+
+    </head>
+    <body>
+        
+
+        
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="home.html"><img src="C:\Users\Pavan\Downloads\ca99231fa2809bcaf4b3afb8889e4a17.w404.h316-removebg-preview.png" alt="" class = "img72" width="250" ></a>
+                    
+    
+                </div>
+                <nav>
+                     <ul id="MenuItems" >
+                        <li><a href="home.html" class = "io"> Home </a></li>
+                        <li><a href="compproducts.html" class = "io"> Products </a></li>
+                        <li><a href="aboutus.html" class = "io"> About </a></li>
+                        <li><a href="contactus..html" class = "io"> Contact</a></li>
+                        <li><a href="loginto.html" class = "io"> Account </a></li>
+                         
+                        
+                     </ul>
+                </nav>
+                <a href="mybag.html"><img src="https://rsanimesh.github.io/images/cart.png" width="30px " height="30px"></a>
+                <img src="C:\Users\Pavan\Desktop\My Stuff\menu.png" class="menu-icon" onclick="menutoggle()">
+                
+    
+            </div>
+            
+        </div>   
+
+
+
+<!------- single product--------->
+
+
+                <div class="small-cont single-product">
+                    <div class="row">
+                <div class="col-2">
+                    <img src="https://rukminim1.flixcart.com/image/612/612/l47cu4w0/shoe/6/4/m/-original-imagf5ggqxkazfae.jpeg?q=70" id="ProductImg" width="300px" height="450px">
+
+                    <div class="small-img-row">
+                    <div class="small-img-col">
+                        <img src="https://assets.ajio.com/medias/sys_master/root/20230213/44PF/63ea55c1aeb26924e36be8fd/-473Wx593H-460934418-offwhite-MODEL2.jpg" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="https://assets.ajio.com/medias/sys_master/root/20230213/oC2i/63ea4e23aeb26924e36bc2b7/-473Wx593H-460934418-offwhite-MODEL4.jpg" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="https://assets.ajio.com/medias/sys_master/root/20230131/p6ag/63d902e0aeb269c65106adaf/-473Wx593H-460934418-offwhite-MODEL5.jpg" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="https://assets.ajio.com/medias/sys_master/root/20230131/p6ag/63d902e0aeb269c65106adaf/-473Wx593H-460934418-offwhite-MODEL5.jpg" width = "120" height = "120" class="small-img">
+                    </div>
+                    </div>
+                        </div>
+                        <div class="col-2">
+                            <p> Home / Shoes</p>
+                            <h1>US Polo Assn Shoes</h1>
+                            <h4> Rs.2000/-</h4>
+                            <select name="" id="">
+                                <option value=""> Select Size</option>
+                                <option value=""> XXL</option>
+                                <option value=""> XL</option>
+                                <option value=""> Large</option>
+                                <option value=""> Medium</option>
+                                <option value=""> Small</option>
+                            </select>
+                            <input type="number" value="1">
+                            <a href="" class="btn"> Add to Cart</a><br>
+                            <a href="orderplaced.html" class="btn302"> Place Order</a>
+                            <h3> Product Details</h3>
+                            <br>
+                            <p> Update your look with this Blue Stripe Custom Fit shirt from Allen Solly Jeans by Allen Solly and enjoy the attention.</p>
+                        </div>
+                    </div>
+                </div>
+
+        
+                <div class="small-cont">
+                    <div class="row row-2">
+                        <h2> Related Products</h2>
+                        <a href=""><p class="View2"> View More</a></p>
+                    </div>
+                </div>
+
+      
+        
+            
+                <div class="small-cont">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="https://sslimages.shoppersstop.com/sys-master/images/h0d/h88/28699950678046/A22KPCSLP132844_RED.jpg_230Wx334H" width = "120" height = "300">
+                            <h4 class="h21">US Polo Assn T-shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            
+                            <p> Rs.1500-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/ku79vgw0/track-pant/v/8/3/m-58671601-puma-original-imag7dk4adcgtad3.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Solid Black Track Pant by Puma</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/k0vbgy80/watch/n/7/y/ng38003pp13c-fastrack-original-imafkjuhyvznhkgh.jpeg?q=70" width = "120" height = "300" >
+                            <h4 class="h21">Fastrack Watch</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2300/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/l29c9e80/short/s/o/t/32-itmso00263tan-indian-terrain-original-imagdmz8fzsqhh7e.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Brown shorts by Indian Terrain</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.800/-</p>
+                        </div>
+                    </div>
+                    
+               
+                   
+                    
+                </div>
+
+
+                    
+        
+
+
+
+ <!-- ------------------ footer ----------------  -->
+ <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                
+                <h3><b>Download Our App for Android</b> </h3>
+                <br>
+                <div class="app-logo">
+                    <a href="https://one8.com/" target="_blank"><img src="https://rsanimesh.github.io/images/play-store.png" width="150px" height="39px"></a>
+                    
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/one8-logo_140x.png?v=1620297227">
+                <br>
+                
+
+                    <p>one8 has become Virat Kohl's passion project to bring the world closer to his sense of style and freedom of expression.</p>
+                
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul class="ul">
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                    
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us on</h3>
+                <ul class="ul">
+                    <li><a href="https://www.facebook.com/one8Select" class = "io" target="_blank"> Facebook </a></li>
+                    <li><a href="https://www.instagram.com/one8world/" class = "io" target="_blank"> Instagram </a></li>
+                    <li><a href="https://twitter.com/one8world" class = "io" target="_blank"> Twitter </a></li>
+                    <li><a href="https://www.youtube.com/@one8commune48" class = "io" target="_blank"> Youtube </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <center><p class="copyright"> Copytight© 2023 - Pavan Kumar</p></center>
+    </div>
+</div>
+
+<!-- ------------ js for toggle menu -----------  -->
+<script>
+    var MenuItems = document.getElementById("MenuItems");
+    MenuItems.style.maxHeight = "0px";
+
+    function menutoggle() {
+        if (MenuItems.style.maxHeight == "0px") {
+            MenuItems.style.maxHeight = "200px";
+        } else {
+            MenuItems.style.maxHeight = "0px";
+        }
+    }
+</script>
+
+
+<!-- ------------ js for product gallery --------------  -->
+<script>
+    var ProductImg = document.getElementById("ProductImg");
+    var SmallImg = document.getElementsByClassName("small-img");
+
+    SmallImg[0].onclick = function() {
+        ProductImg.src = SmallImg[0].src;
+    }
+    SmallImg[1].onclick = function() {
+        ProductImg.src = SmallImg[1].src;
+    }
+    SmallImg[2].onclick = function() {
+        ProductImg.src = SmallImg[2].src;
+    }
+    SmallImg[3].onclick = function() {
+        ProductImg.src = SmallImg[3].src;
+    }
+</script>
+
+
+
+        
+
+    </body>
+</html>
