@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta chartset = "UTF-8">
+        <title>  All Products - One 8 </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="compcss.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" type="x-icon" href="https://media.licdn.com/dms/image/C510BAQEEbNoEaZ-6Kg/company-logo_200_200/0/1569854032730?e=2147483647&v=beta&t=ktLnueHUwHW0SWpDT4Yn5_zKbdlbUNhioAV6kPOkPZA">
+        <meta name="viewport" content="Width=device-width, intial-scale=1.0">
+        <meta http-equiv="X-UA-Compatuble" content="IE=edge">
+        
+                    
+
+    </head>
+    <body>
+        
+
+        
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="home.html"><img src="C:\Users\Pavan\Downloads\ca99231fa2809bcaf4b3afb8889e4a17.w404.h316-removebg-preview.png" alt="" class = "img72" width="250" ></a>
+                    
+    
+                </div>
+                <nav>
+                     <ul id="MenuItems" >
+                        <li><a href="home.html" class = "io"> Home </a></li>
+                        <li><a href="compproducts.html" class = "io"> Products </a></li>
+                        <li><a href="aboutus.html" class = "io"> About </a></li>
+                        <li><a href="contactus..html" class = "io"> Contact</a></li>
+                        <li><a href="loginto.html" class = "io"> Account </a></li>
+                         
+                        
+                     </ul>
+                </nav>
+                <a href="mybag.html"><img src="https://rsanimesh.github.io/images/cart.png" width="30px " height="30px"></a>
+                <img src="C:\Users\Pavan\Desktop\My Stuff\menu.png" class="menu-icon" onclick="menutoggle()">
+                
+    
+            </div>
+            
+        </div>   
+
+
+
+<!------- single product--------->
+
+
+                <div class="small-cont single-product">
+                    <div class="row">
+                <div class="col-2">
+                    <img src="https://images-static.nykaa.com/media/catalog/product/4/8/48c18398906106743433_1.jpg" id="ProductImg" width="300px" height="450px">
+
+                    <div class="small-img-row">
+                    <div class="small-img-col">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3S2MlgRwSO65QRS-4Gmd2z4MrAuIwDIHHqw&usqp=CAU" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3HKBCaS-wQ6H1CnMdfGRNdTLvkEdlksiCQ&usqp=CAU" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wpm9uGWjq9ma4XNJVCGGBSo3RBiKg4trQw&usqp=CAU" width = "120" height = "120" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="data:image/jpeg;base64,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FmjQQTRdrbjVqWPQQG2QJXogfg1Efm6f2RMXyuwLV6D0VIUvTqIGIJCltWxNpnaaBQABYAAADYANgEqQNGN4P8avkvRfqdgexl98tqvJHHptwpYcVdG9mtf2TfJQHaAfVPJoL5o9WXdA50xuhcSuT4SuOJ8W9u0C0n3g65N+Kp/9VUX+lqDmgjNENjax2M1gT0WG4zZoogbCR7e+fGo322PWAYGFxmjTVXVLui56wR9QODucgXt1ETQ+m9R8VVdFUIXYJq7Cq81So2AFQD1ToHF6LLhhrCzAgqAVBByINjmLcZGsR4PaBzFFf1WdewXtGeDEdWqKbUhawqLbhqtnlbba4teXqOhB/pWuSBzkGy5zNuF+O8ya4nwcr9FKg6nRh2EEzE1+QLrmKlQelTJ9oIgRfFWItzDnt1dW9ri5PTYH1y1wSkPusbdV87DvHrEkVbkxUXLxiHr1lPcZicTyerqdZFBIIIsy7RmNpERONyYztKQ40aui6aA5LUW3Vavb2SIV2kq0oSMAqkWIqU8uF1rm0ttB8i8ViyGCeLpn/uPcAj/Au1u7pmhpakU6WZ23lma2nVVq4jfZFjsM6bwfza+ivcJG+T3IXC4WzlfG1B9NwDY8VXYvtPTJXKutqRXiI4XNDSmiJzy+xETxe5ERAREQEREBERAREQEREBERAREQEREBERAREQEREBERA8MgORAPXLWroyi22jTP6q37bS9iBi00FhwQwoJkQwuLgMLgMAcgRc59Myc+xAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP/Z" width = "120" height = "120" class="small-img">
+                    </div>
+                    </div>
+                        </div>
+                        <div class="col-2">
+                            <p> Home / Perfume</p>
+                            <h1>One 8 Eau De Perfume For Men</h1>
+                            <h4> Rs.1200/-</h4>
+                            <select name="" id="">
+                                <option value=""> Select Size</option>
+                                <option value=""> XXL</option>
+                                <option value=""> XL</option>
+                                <option value=""> Large</option>
+                                <option value=""> Medium</option>
+                                <option value=""> Small</option>
+                            </select>
+                            <input type="number" value="1">
+                            <a href="" class="btn"> Add to Cart</a>
+                            <h3> Product Details</h3>
+                            <br>
+                            <p> Update your look with this Blue Stripe Custom Fit shirt from Allen Solly Jeans by Allen Solly and enjoy the attention.</p>
+                        </div>
+                    </div>
+                </div>
+
+        
+                <div class="small-cont">
+                    <div class="row row-2">
+                        <h2> Related Products</h2>
+                        <a href=""><p class="View2"> View More</a></p>
+                    </div>
+                </div>
+
+      
+        
+            
+                <div class="small-cont">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="https://sslimages.shoppersstop.com/sys-master/images/h0d/h88/28699950678046/A22KPCSLP132844_RED.jpg_230Wx334H" width = "120" height = "300">
+                            <h4 class="h21">US Polo Assn T-shirt</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            
+                            <p> Rs.1500-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/ku79vgw0/track-pant/v/8/3/m-58671601-puma-original-imag7dk4adcgtad3.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Solid Black Track Pant by Puma</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2000/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/k0vbgy80/watch/n/7/y/ng38003pp13c-fastrack-original-imafkjuhyvznhkgh.jpeg?q=70" width = "120" height = "300" >
+                            <h4 class="h21">Fastrack Watch</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.2300/-</p>
+                        </div>
+                        <div class="col-4">
+                            <img src="https://rukminim1.flixcart.com/image/612/612/l29c9e80/short/s/o/t/32-itmso00263tan-indian-terrain-original-imagdmz8fzsqhh7e.jpeg?q=70" width = "120" height = "300">
+                            <h4 class="h21">Men Brown shorts by Indian Terrain</h4>
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <p> Rs.800/-</p>
+                        </div>
+                    </div>
+                    
+               
+                   
+                    
+                </div>
+
+
+                    
+        
+
+
+
+ <!-- ------------------ footer ----------------  -->
+ <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                
+                <h3><b>Download Our App for Android</b> </h3>
+                <br>
+                <div class="app-logo">
+                    <a href="https://one8.com/" target="_blank"><img src="https://rsanimesh.github.io/images/play-store.png" width="150px" height="39px"></a>
+                    
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="https://cdn.shopify.com/s/files/1/0565/9308/8670/files/one8-logo_140x.png?v=1620297227">
+                <br>
+                
+
+                    <p>one8 has become Virat Kohl's passion project to bring the world closer to his sense of style and freedom of expression.</p>
+                
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul class="ul">
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                    
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us on</h3>
+                <ul class="ul">
+                    <li><a href="https://www.facebook.com/one8Select" class = "io" target="_blank"> Facebook </a></li>
+                    <li><a href="https://www.instagram.com/one8world/" class = "io" target="_blank"> Instagram </a></li>
+                    <li><a href="https://twitter.com/one8world" class = "io" target="_blank"> Twitter </a></li>
+                    <li><a href="https://www.youtube.com/@one8commune48" class = "io" target="_blank"> Youtube </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <center><p class="copyright"> Copytight© 2023 - Pavan Kumar</p></center>
+    </div>
+</div>
+
+<!-- ------------ js for toggle menu -----------  -->
+<script>
+    var MenuItems = document.getElementById("MenuItems");
+    MenuItems.style.maxHeight = "0px";
+
+    function menutoggle() {
+        if (MenuItems.style.maxHeight == "0px") {
+            MenuItems.style.maxHeight = "200px";
+        } else {
+            MenuItems.style.maxHeight = "0px";
+        }
+    }
+</script>
+
+
+<!-- ------------ js for product gallery --------------  -->
+<script>
+    var ProductImg = document.getElementById("ProductImg");
+    var SmallImg = document.getElementsByClassName("small-img");
+
+    SmallImg[0].onclick = function() {
+        ProductImg.src = SmallImg[0].src;
+    }
+    SmallImg[1].onclick = function() {
+        ProductImg.src = SmallImg[1].src;
+    }
+    SmallImg[2].onclick = function() {
+        ProductImg.src = SmallImg[2].src;
+    }
+    SmallImg[3].onclick = function() {
+        ProductImg.src = SmallImg[3].src;
+    }
+</script>
+
+
+
+        
+
+    </body>
+</html>
+
